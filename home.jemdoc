@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{home.html}, nofooter  
+== Ashok Vardhan Makkuva
+
+~~~
+{}{img_left}{my_air.JPG}{Hello}{450}
+Postdoctoral researcher \n 
+[https://www.epfl.ch/labs/linx/ LINX laboratory], [https://www.epfl.ch/schools/ic/ipg/ Information Processing Group] \n
+[http://www.epfl.ch/schools/ic/ School of Computer and Communication Sciences], [https://www.epfl.ch/en/ EPFL] \n
+\n
+
+Email: ashok.makkuva@epfl.ch \n
+#Contact: Room 130, [http://csl.illinois.edu/ Coordinated Science Laboratory (CSL)], Urbana
+~~~
+
+== About
+Hi there!  am a postdoctoral researcher with [https://people.epfl.ch/michael.gastpar/?lang=en Michael Gastpar] at EPFL. 
+I obtained my PhD in 2022 from the ECE Department at UIUC, advised by [http://pramodv.illinois.edu/ Pramod Viswanath]. I also closely collaborate with [https://homes.cs.washington.edu/~sewoong/ Sewoong Oh] and [https://www.ece.uw.edu/people/sreeram-kannan/ Sreeram Kannan] at UW.\
+I did my undergrad from IIT Bombay with a B. Tech. (Honors) in Electrical Engineering and Minors in Mathematics in 2015. 
+I have been fortunate to work with [https://www.ee.iitb.ac.in/web/faculty/homepage/borkar  Vivek Borkar] for my undergraduate thesis. I have also had the pleasure to work with [http://www.stat.yale.edu/~yw562/ Yihong Wu] for my masters. 
+
+
+=== Research
+My primary research interests are in machine-learning, information theory, and coding theory.\
+I am fairly interested in both theoretical and applied problems in these areas.\
+Broadly speaking, my research is driven by two themes: (i) developing principled theoretical tools and frameworks to solve \
+real-world problems and (ii) using these applied problems as a new lens to better understand theory. In the following paragraphs, I\
+will give you a brief glimpse of my research along these themes.
+
+During the first half of my PhD (2017-2019), most \
+of my works were centred around the former theme. In particular, inspired by the tremendous success of recurrent neural networks such as LSTMs and GRUs\
+in complex natural language processing tasks such as machine translation, we wanted to unravel the mystery behind their impressive performance via a theoretical lens.\
+We found out that a popular neural network architecture, called Mixture-of-Experts (MoE), lies at the heart of these gated neural networks.\
+Despite being so ubiquitous, there was very little theoretical understanding about MoE. Even basic questions such as learnability of their parameters remained an open problem for almost 25 years.\
+In our work we precisely addressed this and proposed the first principled algorithms with theoretical guarantees for MoE: [https://arxiv.org/abs/1802.07417 Breaking the gridlock in MoE] and [https://arxiv.org/abs/1906.02777 Learning in Gated neural networks].
+
+
+Around similar time, there were also many technical innovations happening in the field of generative modeling, especially with the advent of GANs.\
+Despite their impressive empirical performance, theoretical understanding of GANs remained (and still remains) elusive.\
+One of the pioneering works addressing this was the popular [https://arxiv.org/abs/1701.07875 Wasserstein GAN] which established\
+a deep connection between generative modeling and optimal transport. However, the corresponding metric proposed in the paper, Wasserstein-$1$ metric, is not theoretically tractable.\
+On the other hand, it was well known that the classical Wasserstein-$2$ metric enjoyed a lot of nice theoretical properties and beautiful connections to many areas of mathematics.\
+However there were no principled algorithms to learn the optimal transport map under this nice $W_2$ metric. Bridging this gap, we proposed a\
+clean mathematical framework to learn the optimal transport and also a principled algorithm for the same. It outperformed the then state-of-the-art algorithms on a variety of tasks: [https://arxiv.org/abs/1908.10962 Optimal transport].
+
+
+In the recent years, I have been very interested in designing nonlinear error-correcting-codes via deep-learning. The motivation is\
+that digital communication, and especially error-correcting-codes, form the backbone of our modern information age. However, the design of these codes\
+is an extremely challenging task, mostly driven by human-ingenuity. Hence the discovery of codes has been sporadic. This raises a natural question: /Can we somehow automate and accelerate this progress?/ 
+The primary goal of our research is to precisely address this via harnessing deep-learning tools to discover new state-of-the-art codes. Along this line, we recently designed a new class of codes called [https://arxiv.org/abs/2108.12920 KO codes] that outperform the classical Reed-Muller and Polar codes under fixed encoding/decoding complexity.\
+These codes exhibit many fascinating properties, such as random Gaussian behavior despite being structured!
+
+For more details about my research, please visit [Publications.html here] and [Projects.html here].
+
+=== Life interests
+Apart from research, I have eclectic interests and hobbies such as learning new languages, watching and collecting international films, reading history, learning to cook new cuisines,\
+playing sports, etc. Find out more [Interests.html here!]
+
+
+If you ever want to chat about research, movies, history, or anything under the sun, you are most welcome! 

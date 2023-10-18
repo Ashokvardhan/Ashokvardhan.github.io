@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Ashok Vardhan Makkuva</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Ashok V. Makkuva</div>
+<div class="menu-item"><a href="home.html" class="current">Home</a></div>
+<div class="menu-item"><a href="news.html">News</a></div>
+<div class="menu-item"><a href="resume_.pdf">CV</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="Publications.html">Publications</a></div>
+<div class="menu-item"><a href="Thesis.pdf">PhD&nbsp;Thesis</a></div>
+<div class="menu-item"><a href="Projects.html">Projects</a></div>
+<div class="menu-item"><a href="ecethesis.pdf">Master's&nbsp;Thesis</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="Courses.html">Courses</a></div>
+<div class="menu-category">La vie</div>
+<div class="menu-item"><a href="Interests.html">Interests</a></div>
+<div class="menu-item"><a href="Movies.html">Movies</a></div>
+<div class="menu-item"><a href="Meditation.html">Meditation</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Ashok Vardhan Makkuva</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="my_air.JPG" alt="Hello" width="450px" />&nbsp;</td>
+<td align="left"><p>Postdoctoral researcher <br /> 
+<a href="https://www.epfl.ch/labs/linx/">LINX laboratory</a>, <a href="https://www.epfl.ch/schools/ic/ipg/">Information Processing Group</a> <br />
+<a href="http://www.epfl.ch/schools/ic/">School of Computer and Communication Sciences</a>, <a href="https://www.epfl.ch/en/">EPFL</a> <br />
+<br /></p>
+<p>Email: ashok.makkuva@epfl.ch <br />
+</p>
+</td></tr></table>
+<h2>About</h2>
+<p>Hi there!  am a postdoctoral researcher with <a href="https://people.epfl.ch/michael.gastpar/?lang=en">Michael Gastpar</a> at EPFL. 
+I obtained my PhD in 2022 from the ECE Department at UIUC, advised by <a href="http://pramodv.illinois.edu/">Pramod Viswanath</a>. I also closely collaborate with <a href="https://homes.cs.washington.edu/~sewoong/">Sewoong Oh</a> and <a href="https://www.ece.uw.edu/people/sreeram-kannan/">Sreeram Kannan</a> at UW.
+I did my undergrad from IIT Bombay with a B. Tech. (Honors) in Electrical Engineering and Minors in Mathematics in 2015. 
+I have been fortunate to work with <a href="https://www.ee.iitb.ac.in/web/faculty/homepage/borkar">Vivek Borkar</a> for my undergraduate thesis. I have also had the pleasure to work with <a href="http://www.stat.yale.edu/~yw562/">Yihong Wu</a> for my masters. </p>
+<h3>Research</h3>
+<p>My primary research interests are in machine-learning, information theory, and coding theory.
+I am fairly interested in both theoretical and applied problems in these areas.
+Broadly speaking, my research is driven by two themes: (i) developing principled theoretical tools and frameworks to solve 
+real-world problems and (ii) using these applied problems as a new lens to better understand theory. In the following paragraphs, I
+will give you a brief glimpse of my research along these themes.</p>
+<p>During the first half of my PhD (2017-2019), most 
+of my works were centred around the former theme. In particular, inspired by the tremendous success of recurrent neural networks such as LSTMs and GRUs
+in complex natural language processing tasks such as machine translation, we wanted to unravel the mystery behind their impressive performance via a theoretical lens.
+We found out that a popular neural network architecture, called Mixture-of-Experts (MoE), lies at the heart of these gated neural networks.
+Despite being so ubiquitous, there was very little theoretical understanding about MoE. Even basic questions such as learnability of their parameters remained an open problem for almost 25 years.
+In our work we precisely addressed this and proposed the first principled algorithms with theoretical guarantees for MoE: <a href="https://arxiv.org/abs/1802.07417">Breaking the gridlock in MoE</a> and <a href="https://arxiv.org/abs/1906.02777">Learning in Gated neural networks</a>.</p>
+<p>Around similar time, there were also many technical innovations happening in the field of generative modeling, especially with the advent of GANs.
+Despite their impressive empirical performance, theoretical understanding of GANs remained (and still remains) elusive.
+One of the pioneering works addressing this was the popular <a href="https://arxiv.org/abs/1701.07875">Wasserstein GAN</a> which established
+a deep connection between generative modeling and optimal transport. However, the corresponding metric proposed in the paper, Wasserstein-<img class="eq" src="eqs/6272018864-130.png" alt="1" style="vertical-align: -0px" /> metric, is not theoretically tractable.
+On the other hand, it was well known that the classical Wasserstein-<img class="eq" src="eqs/6400019251-130.png" alt="2" style="vertical-align: -0px" /> metric enjoyed a lot of nice theoretical properties and beautiful connections to many areas of mathematics.
+However there were no principled algorithms to learn the optimal transport map under this nice <img class="eq" src="eqs/5733109219417874689-130.png" alt="W_2" style="vertical-align: -3px" /> metric. Bridging this gap, we proposed a
+clean mathematical framework to learn the optimal transport and also a principled algorithm for the same. It outperformed the then state-of-the-art algorithms on a variety of tasks: <a href="https://arxiv.org/abs/1908.10962">Optimal transport</a>.</p>
+<p>In the recent years, I have been very interested in designing nonlinear error-correcting-codes via deep-learning. The motivation is
+that digital communication, and especially error-correcting-codes, form the backbone of our modern information age. However, the design of these codes
+is an extremely challenging task, mostly driven by human-ingenuity. Hence the discovery of codes has been sporadic. This raises a natural question: <i>Can we somehow automate and accelerate this progress?</i> 
+The primary goal of our research is to precisely address this via harnessing deep-learning tools to discover new state-of-the-art codes. Along this line, we recently designed a new class of codes called <a href="https://arxiv.org/abs/2108.12920">KO codes</a> that outperform the classical Reed-Muller and Polar codes under fixed encoding/decoding complexity.
+These codes exhibit many fascinating properties, such as random Gaussian behavior despite being structured!</p>
+<p>For more details about my research, please visit <a href="Publications.html">here</a> and <a href="Projects.html">here</a>.</p>
+<h3>Life interests</h3>
+<p>Apart from research, I have eclectic interests and hobbies such as learning new languages, watching and collecting international films, reading history, learning to cook new cuisines,
+playing sports, etc. Find out more <a href="Interests.html">here!</a></p>
+<p>If you ever want to chat about research, movies, history, or anything under the sun, you are most welcome!</p>
+</td>
+</tr>
+</table>
+</body>
+</html>

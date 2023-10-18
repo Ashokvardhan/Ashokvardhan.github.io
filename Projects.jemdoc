@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{Projects.html}, nofooter  
+== Projects
+
+~~~
+== KO codes
+
+Landmark codes underpin reliable physical layer communication, e.g., Reed-Muller, BCH, Convolution, Turbo, LDPC and Polar codes: each is a linear code and represents a mathematical breakthrough.
+The impact on humanity is huge: each of these codes has been used in global wireless communication standards (satellite, WiFi, cellular).
+Reliability of communication over the classical additive white Gaussian noise (AWGN) channel enables benchmarking and ranking of the different codes.
+In this research, we construct KO codes, a computationaly efficient family of deep-learning driven (encoder, decoder) pairs that outperform the state-of-the-art reliability performance on the standardized AWGN channel.
+KO codes beat state-of-the-art Reed-Muller and Polar codes, under the low-complexity successive cancellation decoding, in the challenging short-to-medium block length regime on the AWGN channel.
+We show that the gains of KO codes are primarily due to the nonlinear mapping of information bits directly to transmit real symbols (bypassing modulation) and yet possess an efficient, high performance decoder.
+The key technical innovation that renders this possible is design of a novel family of neural architectures inspired by the computation tree of the *K*ronecker *O*peration (KO) central to Reed-Muller and Polar codes.
+These architectures pave way for the discovery of a much richer class of hitherto unexplored nonlinear algebraic structures. The following paper talks about this in detail:
+
+== 
+- [https://arxiv.org/abs/2108.12920 KO codes: Inventing Nonlinear Encoding and Decoding for Reliable Wireless Communication via Deep-learning] \n
+  with Xiyang Liu, Mohammad Vahid Jamali, Hessam Mahdavifar, Sewoong Oh and Pramod Viswanath \n
+  /ICML, 2021/ \n
+
+~~~
+
+  

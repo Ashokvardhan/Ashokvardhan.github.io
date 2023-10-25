@@ -2,12 +2,14 @@
 == Publications
 
 
-== Machine learning + Information theory
+== Machine learning $+$ Information theory
 
 - [https://arxiv.org/abs/2310.13033 LASER: Linear Compression in Wireless Distributed Optimization] \n
   with Marco Bondaschi, Thijs Vogels, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
   /Preprint, 2023 / \n
 
+
+== Machine learning $\rightarrow$ Information theory
 
 - [https://arxiv.org/abs/2210.00313 CRISP: Curriculum based Sequential Neural Decoders for Polar Code Family] \n
   with S Ashwin Hebbar, Viraj Nadkarni, Suma Bhat, Sewoong Oh, and Pramod Viswanath \n
@@ -32,11 +34,13 @@
   /ISIT, 2021/ \n
 
 
-== Machine learning
+== (Optimization, Probability) $\rightarrow$ Machine learning
 
 - [https://arxiv.org/abs/1908.10962 Optimal transport mapping via input convex neural networks] \n
   with Amirhossein Taghvaei, Jason Lee, and Sewoong Oh \n
   /ICML, 2020/ \n
+
+== (Optimization, Statistics) $\rightarrow$ Machine learning
 
 - [https://arxiv.org/abs/1906.02777 Learning in Gated Neural Networks ] \n
   with Sreeram Kannan, Sewoong Oh, and Pramod Viswanath \n
@@ -45,6 +49,8 @@
 - [https://arxiv.org/abs/1802.07417 Breaking the gridlock in Mixture-of-Experts: Consistent and Efficient Algorithms ] \n
   with Sewoong Oh, Sreeram Kannan, and Pramod Viswanath \n
   /ICML, 2019/ \n
+
+== Machine learning
 
 - [https://arxiv.org/abs/1810.04133 Learning One-hidden-layer Neural Networks under General Input Distributions] \n
   with Weihao Gao, Sewoong Oh, and Pramod Viswanath \n

@@ -43,34 +43,29 @@
 </td></tr></table>
 <h2>About</h2>
 <p>Hi there! I am a postdoctoral researcher with <a href="https://people.epfl.ch/michael.gastpar/?lang=en">Michael Gastpar</a> at EPFL, where I also closely collaborate with <a href="https://people.epfl.ch/martin.jaggi">Martin Jaggi</a> and <a href="https://sites.utexas.edu/hkim/">Hyeji Kim</a>.</p>
-<p>I got my PhD in Electrical and Computer Engineering at UIUC working with <a href="http://pramodv.illinois.edu/">Pramod Viswanath</a>. During my PhD, I have also had the pleasure to collaborate with <a href="https://homes.cs.washington.edu/~sewoong/">Sewoong Oh</a> and <a href="https://www.ece.uw.edu/people/sreeram-kannan/">Sreeram Kannan</a> at UW Seattle, and <a href="https://mahdavifar.engin.umich.edu/">Hessam Mahdavifar</a> at University of Michigan.
+<p>I got my PhD in Electrical and Computer Engineering at UIUC working with <a href="http://pramodv.illinois.edu/">Pramod Viswanath</a>. During my PhD, I have also had the pleasure to collaborate with <a href="https://homes.cs.washington.edu/~sewoong/">Sewoong Oh</a> and <a href="https://www.ece.uw.edu/people/sreeram-kannan/">Sreeram Kannan</a> (UW Seattle), and <a href="https://mahdavifar.engin.umich.edu/">Hessam Mahdavifar</a> (University of Michigan).
 Prior to that, I obtained my masters from UIUC with <a href="http://www.stat.yale.edu/~yw562/">Yihong Wu</a>. </p>
 <p>Earlier, I graduated from IIT Bombay with a B. Tech. (Honors) in Electrical Engineering and Minors in Mathematics working with <a href="https://en.wikipedia.org/wiki/Vivek_Borkar">Vivek Borkar</a>.</p>
 <h3>Research</h3>
-<p>My primary research interests are in machine-learning, information theory, and coding theory.
-I am fairly interested in both theoretical and applied problems in these areas.
-Broadly speaking, my research is driven by two themes: (i) developing principled theoretical tools and frameworks to solve 
-real-world problems and (ii) using these applied problems as a new lens to better understand theory. In the following paragraphs, I
-will give you a brief glimpse of my research along these themes.</p>
-<p>During the first half of my PhD (2017-2019), most 
-of my works were centred around the former theme. In particular, inspired by the tremendous success of recurrent neural networks such as LSTMs and GRUs
-in complex natural language processing tasks such as machine translation, we wanted to unravel the mystery behind their impressive performance via a theoretical lens.
-We found out that a popular neural network architecture, called Mixture-of-Experts (MoE), lies at the heart of these gated neural networks.
-Despite being so ubiquitous, there was very little theoretical understanding about MoE. Even basic questions such as learnability of their parameters remained an open problem for almost 25 years.
-In our work we precisely addressed this and proposed the first principled algorithms with theoretical guarantees for MoE: <a href="https://arxiv.org/abs/1802.07417">Breaking the gridlock in MoE</a> and <a href="https://arxiv.org/abs/1906.02777">Learning in Gated neural networks</a>.</p>
-<p>Around similar time, there were also many technical innovations happening in the field of generative modeling, especially with the advent of GANs.
-Despite their impressive empirical performance, theoretical understanding of GANs remained (and still remains) elusive.
-One of the pioneering works addressing this was the popular <a href="https://arxiv.org/abs/1701.07875">Wasserstein GAN</a> which established
-a deep connection between generative modeling and optimal transport. However, the corresponding metric proposed in the paper, Wasserstein-<img class="eq" src="eqs/6272018864-130.png" alt="1" style="vertical-align: -0px" /> metric, is not theoretically tractable.
-On the other hand, it was well known that the classical Wasserstein-<img class="eq" src="eqs/6400019251-130.png" alt="2" style="vertical-align: -0px" /> metric enjoyed a lot of nice theoretical properties and beautiful connections to many areas of mathematics.
-However there were no principled algorithms to learn the optimal transport map under this nice <img class="eq" src="eqs/5733109219417874689-130.png" alt="W_2" style="vertical-align: -3px" /> metric. Bridging this gap, we proposed a
-clean mathematical framework to learn the optimal transport and also a principled algorithm for the same. It outperformed the then state-of-the-art algorithms on a variety of tasks: <a href="https://arxiv.org/abs/1908.10962">Optimal transport</a>.</p>
-<p>In the recent years, I have been very interested in designing nonlinear error-correcting-codes via deep-learning. The motivation is
-that digital communication, and especially error-correcting-codes, form the backbone of our modern information age. However, the design of these codes
-is an extremely challenging task, mostly driven by human-ingenuity. Hence the discovery of codes has been sporadic. This raises a natural question: <i>Can we somehow automate and accelerate this progress?</i> 
-The primary goal of our research is to precisely address this via harnessing deep-learning tools to discover new state-of-the-art codes. Along this line, we recently designed a new class of codes called <a href="https://arxiv.org/abs/2108.12920">KO codes</a> that outperform the classical Reed-Muller and Polar codes under fixed encoding/decoding complexity.
-These codes exhibit many fascinating properties, such as random Gaussian behavior despite being structured!</p>
-<p>For more details about my research, please visit <a href="Publications.html">here</a> and <a href="Projects.html">here</a>.</p>
+<p>I work broadly in foundations of data science in topics including machine learning, information theory, coding theory, and optmization. In particular, I am interested in themes that require a creative amalgamation 
+of these diverse fields towards a multifaceted perspective of data science - with its ever growing ubiquity and prominence in both research and daily life alike (e.g. ChatGPT), 
+there is a commensurate need for understanding 
+its success and pitfalls.  My research aims to address 
+this using a first-principles approach to solve theoretical, algorithmic, and practical problems at the heart of this arena. The following are some representative works:</p>
+<ul>
+<li><p><b>Inventing error-correcting codes</b> (<i>Machine learning <img class="eq" src="eqs/7287131988657384054-130.png" alt="rightarrow" style="vertical-align: -1px" /> Information theory</i>): <a href="https://arxiv.org/abs/2108.12920">KO codes</a>, <a href="https://arxiv.org/abs/2301.06251">Reed-Muller subcodes</a>, 
+<a href="https://arxiv.org/abs/2210.00313">CRISP</a>, and <a href="https://arxiv.org/abs/2209.15614">TinyTurbo</a>. <br /></p>
+</li>
+<li><p><b>Wireless distributed optimization and federated learning</b> (<i>Machine learning <img class="eq" src="eqs/5504016554-130.png" alt="+" style="vertical-align: -2px" /> Information theory</i>): <a href="https://arxiv.org/abs/2310.13033">LASER</a>. <br /></p>
+</li>
+<li><p><b>Learning optimal transport maps</b> (<i>Optimization & Probability <img class="eq" src="eqs/1920622711823385747-130.png" alt=" rightarrow" style="vertical-align: -1px" /> Machine learning</i>): <a href="https://arxiv.org/abs/1908.10962">OT maps</a>. <br /></p>
+</li>
+<li><p><b>Mixture-of-Experts</b> (<i>Optimization & Statistics <img class="eq" src="eqs/1920622711823385747-130.png" alt=" rightarrow" style="vertical-align: -1px" /> Machine learning</i>): <a href="https://arxiv.org/abs/1802.07417">MoE</a> and <a href="https://arxiv.org/abs/1906.02777">Gated neural networks</a>. <br /></p>
+</li>
+<li><p><b>Information-theoretic LLMs</b> (<i>Information theory <img class="eq" src="eqs/7287131988657384054-130.png" alt="rightarrow" style="vertical-align: -1px" /> Machine learning</i>): Stay tuned! <br /></p>
+</li>
+</ul>
+<p>In addition to the aforementioned themes, I am also interested in <a href="http://swoh.web.engr.illinois.edu/polling.pdf">blockchains</a> (<b>best paper award</b>) and classical {machine learning, information theory}. Here is a detailed list of my <a href="Publications.html">publications</a>.</p>
 </td>
 </tr>
 </table>

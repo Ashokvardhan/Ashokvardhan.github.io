@@ -6,10 +6,7 @@
 
 - [https://arxiv.org/abs/2310.13033 LASER: Linear Compression in Wireless Distributed Optimization] \n
   with Marco Bondaschi, Thijs Vogels, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
-  /Preprint, 2023 / \n
-
-
-== Machine learning $\rightarrow$ Information theory
+  /NeurIPS Federated Learning Workshop, 2023 / \n
 
 - [https://arxiv.org/abs/2210.00313 CRISP: Curriculum based Sequential Neural Decoders for Polar Code Family] \n
   with S Ashwin Hebbar, Viraj Nadkarni, Suma Bhat, Sewoong Oh, and Pramod Viswanath \n
@@ -34,13 +31,11 @@
   /ISIT, 2021/ \n
 
 
-== (Optimization, Probability) $\rightarrow$ Machine learning
+== Machine learning $+$ Optimization
 
 - [https://arxiv.org/abs/1908.10962 Optimal transport mapping via input convex neural networks] \n
   with Amirhossein Taghvaei, Jason Lee, and Sewoong Oh \n
   /ICML, 2020/ \n
-
-== (Optimization, Statistics) $\rightarrow$ Machine learning
 
 - [https://arxiv.org/abs/1906.02777 Learning in Gated Neural Networks ] \n
   with Sreeram Kannan, Sewoong Oh, and Pramod Viswanath \n
@@ -50,15 +45,14 @@
   with Sewoong Oh, Sreeram Kannan, and Pramod Viswanath \n
   /ICML, 2019/ \n
 
-== Machine learning
-
 - [https://arxiv.org/abs/1810.04133 Learning One-hidden-layer Neural Networks under General Input Distributions] \n
   with Weihao Gao, Sewoong Oh, and Pramod Viswanath \n
   /AISTATS, 2019/ \n
 
 
 
-== Blockchain
+== Blockchains
+
 - [http://swoh.web.engr.illinois.edu/polling.pdf Barracuda: The Power of l-polling in Proof-of-Stake Blockchains] \n
    with Ranvir Rana, Jiantao Jao, Sewoong Oh, Giulia Fanti, and Pramod Viswanath \n
    /ACM MobiHoc, 2019 (*Best paper award*)/ 

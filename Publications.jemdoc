@@ -2,19 +2,52 @@
 == Publications
 
 
-== Machine learning
+== LLMs
+
+- [https://arxiv.org/abs/2407.15504 Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models] \n
+  with Adway Girish, Alliot Nagle, Marco Bondaschi, Michael C. Gastpar, and Hyeji Kim \n
+  /Workshop on Theoretical Foundations of Foundation Models, ICML 2024 (*Oral*) / \n
+
+- [https://arxiv.org/abs/2407.17686v1 Transformers on Markov Data: Constant Depth Suffices] \n
+  with Nived Rajaraman, Marco Bondaschi, Kannan Ramachandran, and Michael C. Gastpar \n
+  /Mechanistic Interpretability Workshop, ICML 2024 / \n
+
+  - [https://arxiv.org/abs/2406.03072 Local to Global: Learning Dynamics and Effect of Initialization for Transformers] \n
+  with Marco Bondaschi, Chanakya Ekbote, Adway Girish, Alliot Nagle, Hyeji Kim, and Michael C. Gastpar \n
+  /Workshop on Theoretical Foundations of Foundation Models, ICML 2024 / \n
 
 - [https://arxiv.org/abs/2402.04161 Attention with Markov: A Framework for Principled Analysis of Transformers via Markov Chains] \n
   with Marco Bondaschi, Adway Girish, Alliot Nagle, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
-  /under review (all hail Reviewer 2) / \n
+  /Mechanistic Interpretability Workshop, ICML 2024 / \n
 
 
 
-== Machine learning $+$ Information theory
+== Mixture of Experts \& Optimal transport
+
+- [https://arxiv.org/abs/1908.10962 Optimal transport mapping via input convex neural networks] \n
+  with Amirhossein Taghvaei, Jason Lee, and Sewoong Oh \n
+  /ICML, 2020/ \n
+
+- [https://arxiv.org/abs/1906.02777 Learning in Gated Neural Networks ] \n
+  with Sreeram Kannan, Sewoong Oh, and Pramod Viswanath \n
+  /AISTATS, 2020/ \n
+
+- [https://arxiv.org/abs/1802.07417 Breaking the gridlock in Mixture-of-Experts: Consistent and Efficient Algorithms ] \n
+  with Sewoong Oh, Sreeram Kannan, and Pramod Viswanath \n
+  /ICML, 2019/ \n
+
+- [https://arxiv.org/abs/1810.04133 Learning One-hidden-layer Neural Networks under General Input Distributions] \n
+  with Weihao Gao, Sewoong Oh, and Pramod Viswanath \n
+  /AISTATS, 2019/ \n
+
+
+
+== Machine learning $+$ {Information, Coding} theory
 
 - [https://arxiv.org/abs/2310.13033 LASER: Linear Compression in Wireless Distributed Optimization] \n
   with Marco Bondaschi, Thijs Vogels, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
   /NeurIPS Federated Learning Workshop, 2023 / \n
+  /ICML, 2024 / \n
 
 - [https://arxiv.org/abs/2210.00313 CRISP: Curriculum based Sequential Neural Decoders for Polar Code Family] \n
   with S Ashwin Hebbar, Viraj Nadkarni, Suma Bhat, Sewoong Oh, and Pramod Viswanath \n
@@ -37,26 +70,6 @@
 - [https://arxiv.org/abs/2102.01671 Reed-Muller Subcodes: Machine Learning-Aided Design of Efficient Soft Recursive Decoding] \n
   with Mohammad Vahid Jamali, Xiyang Liu, Hessam Mahdavifar, Sewoong Oh, and Pramod Viswanath \n
   /ISIT, 2021/ \n
-
-
-== Machine learning $+$ Optimization
-
-- [https://arxiv.org/abs/1908.10962 Optimal transport mapping via input convex neural networks] \n
-  with Amirhossein Taghvaei, Jason Lee, and Sewoong Oh \n
-  /ICML, 2020/ \n
-
-- [https://arxiv.org/abs/1906.02777 Learning in Gated Neural Networks ] \n
-  with Sreeram Kannan, Sewoong Oh, and Pramod Viswanath \n
-  /AISTATS, 2020/ \n
-
-- [https://arxiv.org/abs/1802.07417 Breaking the gridlock in Mixture-of-Experts: Consistent and Efficient Algorithms ] \n
-  with Sewoong Oh, Sreeram Kannan, and Pramod Viswanath \n
-  /ICML, 2019/ \n
-
-- [https://arxiv.org/abs/1810.04133 Learning One-hidden-layer Neural Networks under General Input Distributions] \n
-  with Weihao Gao, Sewoong Oh, and Pramod Viswanath \n
-  /AISTATS, 2019/ \n
-
 
 
 == Blockchains

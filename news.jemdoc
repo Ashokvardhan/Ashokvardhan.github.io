@@ -1,8 +1,7 @@
 # jemdoc: menu{MENU}{news.html}, nofooter  
 == News
 
-- Jan 2024: [https://www.youtube.com/watch?v=5aOqQop5vMA&t=1s Faculty candidate seminar] at [https://web.tcs.tifr.res.in/web/events/1234/print TIFR].
-- Dec 2023: Talks at UC Berkeley and [https://web.stanford.edu/group/it-forum/talks/talks/2023/ashok-makkuva/ Stanford] on [https://arxiv.org/abs/2310.13033 LASER].
+
 - Nov 2023: Our recent work [https://arxiv.org/abs/2310.13033 LASER] is accepted for the *Oral* track at the [https://federated-learning.org/fl@fm-neurips-2023/ NeurIPS Federated Learning Workshop, 2023]. 
 - Apr 2023: Our paper [https://arxiv.org/abs/2210.00313 CRISP] is accepted in ICML, 2023.
 - Oct 2022: Talk at ETH Zurich on KO codes.

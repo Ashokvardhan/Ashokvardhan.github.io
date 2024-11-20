@@ -1,13 +1,24 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter  
 
 
-== *Attention with Markov (US, Europe)*
 
-- [https://ita.ucsd.edu/workshop/  Information Theory and Applications workshop (ITA) 2024],  /San Diego/ \n
+== *Fundamental Limits of Prompt Compression*
+
+- Stanford IT Forum, /Stanford University/ \n
+- BASiCS Group Seminar, /UC Berkeley/ \n
+
+
+== *Attention with Markov: A Markovian Tale of Transformers (US, Europe)*
+
+\[[MarkovianTale.pdf Slides ] \]
+
+- [https://las.inf.ethz.ch/krausea Learning \& Adaptive Systems Seminar], /ETH Zürich/ \n
 - [https://da.inf.ethz.ch/people/ThomasHofmann/ Data Analytics Seminar], /ETH Zürich/ \n
-
+- [https://ita.ucsd.edu/workshop/  Information Theory and Applications workshop (ITA) 2024],  /San Diego/ \n
 
 == *KO codes (US, Canada, Europe, and India)*
+
+\[[KOcodes.pdf Slides]\]
 
 - SiA Group Seminar, /MIT/ \n
 - [https://isl.stanford.edu/talks/talks/2021q4/ashok-vardhan-makkuva/ ISL Colloquium], /Stanford/ \n
@@ -22,6 +33,8 @@
 - EE \& and CS Joint Seminar,  /IISc/ \n
 
 == *Learning in Gated Neural Networks (US and India)*
+
+\[[Gated.pdf Slides]\]
 
 - Machine learning and Optimization Seminar, /University of Washington, Seattle/ \n
 - Machine learning Seminar, /Carnegie Mellon University/ \n

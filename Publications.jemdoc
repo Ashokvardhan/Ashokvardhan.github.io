@@ -2,27 +2,31 @@
 == Publications
 
 
-== LLMs
+== Prompt Compression
 
 - [https://arxiv.org/abs/2407.15504 Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models] \n
   with Adway Girish, Alliot Nagle, Marco Bondaschi, Michael C. Gastpar, and Hyeji Kim \n
-  /Workshop on Theoretical Foundations of Foundation Models, ICML 2024 (*Oral*) / \n
+  /NeurIPS, 2024/ \n
+
+#/Workshop on Theoretical Foundations of Foundation Models, ICML 2024/ \n
+
+== A Markovian Tale of Transformers
 
 - [https://arxiv.org/abs/2407.17686v1 Transformers on Markov Data: Constant Depth Suffices] \n
   with Nived Rajaraman, Marco Bondaschi, Kannan Ramachandran, and Michael C. Gastpar \n
-  /Mechanistic Interpretability Workshop, ICML 2024 / \n
+  /NeurIPS, 2024/ \n
 
-  - [https://arxiv.org/abs/2406.03072 Local to Global: Learning Dynamics and Effect of Initialization for Transformers] \n
+- [https://arxiv.org/abs/2406.03072 Local to Global: Learning Dynamics and Effect of Initialization for Transformers] \n
   with Marco Bondaschi, Chanakya Ekbote, Adway Girish, Alliot Nagle, Hyeji Kim, and Michael C. Gastpar \n
-  /Workshop on Theoretical Foundations of Foundation Models, ICML 2024 / \n
+  /NeurIPS, 2024/ \n
 
 - [https://arxiv.org/abs/2402.04161 Attention with Markov: A Framework for Principled Analysis of Transformers via Markov Chains] \n
   with Marco Bondaschi, Adway Girish, Alliot Nagle, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
-  /Mechanistic Interpretability Workshop, ICML 2024 / \n
+  /Mechanistic Interpretability Workshop, ICML 2024 \& under review at ICLR 2025 / \n
 
 
 
-== Mixture of Experts \& Optimal transport
+== Mixture of Experts \& Optimal Transport
 
 - [https://arxiv.org/abs/1908.10962 Optimal transport mapping via input convex neural networks] \n
   with Amirhossein Taghvaei, Jason Lee, and Sewoong Oh \n
@@ -42,7 +46,7 @@
 
 
 
-== Machine learning $+$ {Information, Coding} theory
+== Learning Codes via Deep Learning
 
 - [https://arxiv.org/abs/2310.13033 LASER: Linear Compression in Wireless Distributed Optimization] \n
   with Marco Bondaschi, Thijs Vogels, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
@@ -96,6 +100,9 @@
 - [https://link.springer.com/article/10.1007/s13226-016-0188-1 Event-driven stochastic approximation]\n
   with Vivek S. Borkar and Neeraja Sahasrabudhe \n
   /Indian Journal of Pure and Applied Mathematics, June 2016, Volume 47, Issue 2, pp 291–299/
+
+
+#: Machine learning $+$ {Information, Coding} theory
 
 
 

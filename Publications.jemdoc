@@ -10,7 +10,9 @@
 
 #/Workshop on Theoretical Foundations of Foundation Models, ICML 2024/ \n
 
-== A Markovian Tale of Transformers
+== A Markovian Tale of Transformers 
+
+\[[MarkovianTale.pdf Slides]\]
 
 - [https://arxiv.org/abs/2407.17686v1 Transformers on Markov Data: Constant Depth Suffices] \n
   with Nived Rajaraman, Marco Bondaschi, Kannan Ramachandran, and Michael C. Gastpar \n
@@ -26,13 +28,13 @@
 
 
 
-== Mixture of Experts \& Optimal Transport
+== Mixture of Experts \& Optimal Transport 
 
-- [https://arxiv.org/abs/1908.10962 Optimal transport mapping via input convex neural networks] \n
+- [https://arxiv.org/abs/1908.10962 Optimal transport mapping via input convex neural networks] \[[OT.pdf Slides]\] \n
   with Amirhossein Taghvaei, Jason Lee, and Sewoong Oh \n
   /ICML, 2020/ \n
 
-- [https://arxiv.org/abs/1906.02777 Learning in Gated Neural Networks ] \n
+- [https://arxiv.org/abs/1906.02777 Learning in Gated Neural Networks ] \[[Gated.pdf Slides]\] \n
   with Sreeram Kannan, Sewoong Oh, and Pramod Viswanath \n
   /AISTATS, 2020/ \n
 
@@ -48,7 +50,7 @@
 
 == Learning Codes via Deep Learning
 
-- [https://arxiv.org/abs/2310.13033 LASER: Linear Compression in Wireless Distributed Optimization] \n
+- [https://arxiv.org/abs/2310.13033 LASER: Linear Compression in Wireless Distributed Optimization] \[[LASER.pdf Slides]\] \n
   with Marco Bondaschi, Thijs Vogels, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
   /NeurIPS Federated Learning Workshop, 2023 / \n
   /ICML, 2024 / \n
@@ -67,7 +69,7 @@
   /ISIT, 2022/ \n
 
 
-- [https://arxiv.org/abs/2108.12920 KO codes: Inventing Nonlinear Encoding and Decoding for Reliable Wireless Communication via Deep-learning] \n
+- [https://arxiv.org/abs/2108.12920 KO codes: Inventing Nonlinear Encoding and Decoding for Reliable Wireless Communication via Deep-learning] \[[KOcodes.pdf Slides]\] \n
   with Xiyang Liu, Mohammad Vahid Jamali, Hessam Mahdavifar, Sewoong Oh, and Pramod Viswanath \n
   /ICML, 2021/ \n
 

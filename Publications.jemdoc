@@ -10,21 +10,25 @@
 
 #/Workshop on Theoretical Foundations of Foundation Models, ICML 2024/ \n
 
-== A Markovian Tale of Transformers 
+== A Markovian Tale of Transformers and SSMs 
 
 \[[MarkovianTale.pdf Slides]\]
 
+- [https://arxiv.org/abs/2502.10178 From Markov to Laplace: How Mamba In-Context Learns Markov Chains] \n
+  with Marco Bondaschi, Nived Rajaraman, Xiuying Wei, Kannan Ramchandran, Razvan Pascanu, Caglar Gulcehre, and Michael C. Gastpar \n
+  /under review at ICML, 2025/ \n
+
+  - [https://arxiv.org/abs/2402.04161 Attention with Markov: A Framework for Principled Analysis of Transformers via Markov Chains] \n
+  with Marco Bondaschi, Adway Girish, Alliot Nagle, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
+  /ICLR 2025, *Spotlight (5% out of 11,670 papers)* / \n
+
 - [https://arxiv.org/abs/2407.17686v1 Transformers on Markov Data: Constant Depth Suffices] \n
-  with Nived Rajaraman, Marco Bondaschi, Kannan Ramachandran, and Michael C. Gastpar \n
+  with Nived Rajaraman, Marco Bondaschi, Kannan Ramchandran, and Michael C. Gastpar \n
   /NeurIPS, 2024/ \n
 
 - [https://arxiv.org/abs/2406.03072 Local to Global: Learning Dynamics and Effect of Initialization for Transformers] \n
   with Marco Bondaschi, Chanakya Ekbote, Adway Girish, Alliot Nagle, Hyeji Kim, and Michael C. Gastpar \n
   /NeurIPS, 2024/ \n
-
-- [https://arxiv.org/abs/2402.04161 Attention with Markov: A Framework for Principled Analysis of Transformers via Markov Chains] \n
-  with Marco Bondaschi, Adway Girish, Alliot Nagle, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
-  /Mechanistic Interpretability Workshop, ICML 2024 \& under review at ICLR 2025 / \n
 
 
 

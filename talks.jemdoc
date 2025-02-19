@@ -1,17 +1,11 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter  
 
 
-
-== *Fundamental Limits of Prompt Compression*
-
-- Stanford IT Forum, /Stanford University/ \n
-- BASiCS Group Seminar, /UC Berkeley/ \n
-
-
 == *Attention with Markov: A Markovian Tale of Transformers (US, Europe)*
 
 \[[MarkovianTale.pdf Slides] \]
 
+- Tutorial at ITCS Seminar (upcoming, in Aug, 2025) \n
 - [https://las.inf.ethz.ch/krausea Learning \& Adaptive Systems Seminar], /ETH Zürich/ \n
 - [https://da.inf.ethz.ch/people/ThomasHofmann/ Data Analytics Seminar], /ETH Zürich/ \n
 - [https://ita.ucsd.edu/workshop/  Information Theory and Applications workshop (ITA) 2024],  /San Diego/ \n

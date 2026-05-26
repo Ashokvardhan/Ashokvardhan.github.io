@@ -2,37 +2,21 @@
 == Publications
 
 
-== Prompt Compression
+== Efficient AI
+
+=== Reasoning
+
+- [https://arxiv.org/abs/2603.12529 TERMINATOR: Learning Optimal Exit Points for Early Stopping in Chain-of-Thought Reasoning] \n
+  with Alliot Nagle,  Jakhongir Saydaliev, Dhia Garbaya, Michael C. Gastpar, and Hyeji Kim \n
+  /TTU Workshop, ICLR 2026/ \n
+
+=== Prompt Compression
 
 - [https://arxiv.org/abs/2407.15504 Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models] \n
   with Adway Girish, Alliot Nagle, Marco Bondaschi, Michael C. Gastpar, and Hyeji Kim \n
   /NeurIPS, 2024/ \n
 
-#/Workshop on Theoretical Foundations of Foundation Models, ICML 2024/ \n
-
-== A Markovian Tale of Transformers and SSMs 
-
-\[[MarkovianTale.pdf Slides]\]
-
-- [https://arxiv.org/abs/2502.10178 From Markov to Laplace: How Mamba In-Context Learns Markov Chains] \n
-  with Marco Bondaschi, Nived Rajaraman, Xiuying Wei, Kannan Ramchandran, Razvan Pascanu, Caglar Gulcehre, and Michael C. Gastpar \n
-  /under review at ICML, 2025/ \n
-
-  - [https://arxiv.org/abs/2402.04161 Attention with Markov: A Framework for Principled Analysis of Transformers via Markov Chains] \n
-  with Marco Bondaschi, Adway Girish, Alliot Nagle, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
-  /ICLR 2025, *Spotlight (5% out of 11,670 papers)* / \n
-
-- [https://arxiv.org/abs/2407.17686v1 Transformers on Markov Data: Constant Depth Suffices] \n
-  with Nived Rajaraman, Marco Bondaschi, Kannan Ramchandran, and Michael C. Gastpar \n
-  /NeurIPS, 2024/ \n
-
-- [https://arxiv.org/abs/2406.03072 Local to Global: Learning Dynamics and Effect of Initialization for Transformers] \n
-  with Marco Bondaschi, Chanakya Ekbote, Adway Girish, Alliot Nagle, Hyeji Kim, and Michael C. Gastpar \n
-  /NeurIPS, 2024/ \n
-
-
-
-== Mixture of Experts \& Optimal Transport 
+=== Optimal Transport \& Mixture of Experts  
 
 - [https://arxiv.org/abs/1908.10962 Optimal transport mapping via input convex neural networks] \[[OT.pdf Slides]\] \n
   with Amirhossein Taghvaei, Jason Lee, and Sewoong Oh \n
@@ -49,6 +33,33 @@
 - [https://arxiv.org/abs/1810.04133 Learning One-hidden-layer Neural Networks under General Input Distributions] \n
   with Weihao Gao, Sewoong Oh, and Pramod Viswanath \n
   /AISTATS, 2019/ \n
+
+
+== Interpretable AI
+
+=== A Markovian Tale of Transformers and SSMs 
+
+\[[MarkovianTale.pdf Slides]\]
+
+- [https://arxiv.org/abs/2502.10178 From Markov to Laplace: How Mamba In-Context Learns Markov Chains] \n
+  with Marco Bondaschi, Nived Rajaraman, Xiuying Wei, Kannan Ramchandran, Razvan Pascanu, Caglar Gulcehre, and Michael C. Gastpar \n
+  /ICLR 2026, *Oral (1% out of 18,949 papers)* / \n
+
+- [https://arxiv.org/pdf/2508.07208 What One Cannot, Two Can: Two-Layer Transformers Provably Represent Induction Heads on Any-Order Markov Chains] \n
+  with Chanakya Ekbote, Marco Bondaschi, Nived Rajaraman, Jason D. Lee, Paul Pu Liang, and Michael C. Gastpar \n
+  /NeurIPS 2025, *Spotlight (3% out of 12,575 papers)* / \n
+
+- [https://arxiv.org/abs/2402.04161 Attention with Markov: A Framework for Principled Analysis of Transformers via Markov Chains] \n
+  with Marco Bondaschi, Adway Girish, Alliot Nagle, Martin Jaggi, Hyeji Kim, and Michael C. Gastpar \n
+  /ICLR 2025, *Spotlight (5% out of 11,670 papers)* / \n
+
+- [https://arxiv.org/abs/2407.17686v1 Transformers on Markov Data: Constant Depth Suffices] \n
+  with Nived Rajaraman, Marco Bondaschi, Kannan Ramchandran, and Michael C. Gastpar \n
+  /NeurIPS, 2024/ \n
+
+- [https://arxiv.org/abs/2406.03072 Local to Global: Learning Dynamics and Effect of Initialization for Transformers] \n
+  with Marco Bondaschi, Chanakya Ekbote, Adway Girish, Alliot Nagle, Hyeji Kim, and Michael C. Gastpar \n
+  /NeurIPS, 2024/ \n
 
 
 

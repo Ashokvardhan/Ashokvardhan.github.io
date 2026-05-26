@@ -1,47 +1,58 @@
 # jemdoc: menu{MENU}{mentoring.html}, nofooter  
 
-== Mentees
+== Group
 
+- [https://www.linkedin.com/in/amirmehdi-jafari-fesharaki/ Amirmehdi Jafari Fesharaki] (co-advised with Aslan Tchamkerten)
 
-- [https://people.eecs.berkeley.edu/~nived.rajaraman/ Nived Rajaraman], PhD at UC Berkeley \n
-    /[https://arxiv.org/abs/2407.17686v1  NeurIPS 2024]/ \n
+- [https://fr.linkedin.com/in/mohammad-amin-rami Rami Mohammadamin] (co-advised with Aslan Tchamkerten)
 
-- [https://www.linkedin.com/in/marco-bondaschi-9ba8a6251/ Marco Bondaschi], PhD at EPFL \n
-    /NeurIPS 2024: [https://arxiv.org/abs/2407.15504 1], [https://arxiv.org/abs/2407.17686v1 2], [https://arxiv.org/abs/2406.03072  3] / \n
-    /[https://arxiv.org/abs/2310.13033 ICML 2024], [https://openreview.net/forum?id=SqZ0KY4qBD ICLR 2025 Spotlight]/ \n 
-
-- [https://sites.google.com/view/adwaygirish Adway Girish], PhD at EPFL \n
-    / NeurIPS 2024: [https://arxiv.org/abs/2407.15504  1], [https://arxiv.org/abs/2406.03072  2]/ \n
-    /[https://openreview.net/forum?id=SqZ0KY4qBD ICLR 2025 Spotlight] / \n
+- [https://github.com/cekbote Chanakya Ekbote], PhD at MIT \n
+    -- /[https://arxiv.org/pdf/2508.07208  NeurIPS 2025 Spotlight], [https://arxiv.org/abs/2406.03072  NeurIPS 2024]/ \n
 
 - [https://acnagle.com/ Alliot Nagle], PhD at UT Austin \n
-    / NeurIPS 2024: [https://arxiv.org/abs/2407.15504  1], [https://arxiv.org/abs/2406.03072  2]/ \n
-    /[https://openreview.net/forum?id=SqZ0KY4qBD ICLR 2025 Spotlight] / \n
+    -- / [https://arxiv.org/abs/2603.12529  TTU Workshop, ICLR 2026], [https://openreview.net/forum?id=SqZ0KY4qBD ICLR 2025 Spotlight], NeurIPS 2024: [https://arxiv.org/abs/2407.15504  1], [https://arxiv.org/abs/2406.03072  2]/ \n
 
-- [https://github.com/cekbote Chanakya Ekbote], MS at EPFL $\rightarrow$ MIT Media Lab \n
-    /[https://arxiv.org/abs/2406.03072  NeurIPS 2024]/ \n
+- [https://jakhongir.me/ Jakhongir Saydaliev], MS at EPFL & UT Austin \n
+    -- /[https://arxiv.org/abs/2603.12529  TTU Workshop, ICLR 2026] / \n
+
+- [https://dhia680.github.io/ Dhia Garbaya], MS at École des Pont & ENS Paris-Saclay \n
+    -- /[https://arxiv.org/abs/2603.12529  TTU Workshop, ICLR 2026] / \n
+
+- [https://www.linkedin.com/in/marco-bondaschi-9ba8a6251/ Marco Bondaschi], PhD at EPFL \n
+    -- /[https://arxiv.org/abs/2502.10178 ICLR 2026 Oral], [https://arxiv.org/pdf/2508.07208  NeurIPS 2025 Spotlight], [https://openreview.net/forum?id=SqZ0KY4qBD ICLR 2025 Spotlight], [https://arxiv.org/abs/2310.13033 ICML 2024], NeurIPS 2024: [https://arxiv.org/abs/2407.15504 1], [https://arxiv.org/abs/2407.17686v1 2], [https://arxiv.org/abs/2406.03072  3] / \n
+
+
+== Former mentees & student collaborators
+
+- [https://people.eecs.berkeley.edu/~nived.rajaraman/ Nived Rajaraman], PhD at UC Berkeley $\rightarrow$ MSR Postdoc \n
+    -- /[https://arxiv.org/abs/2502.10178 ICLR 2026 Oral], [https://arxiv.org/pdf/2508.07208  NeurIPS 2025 Spotlight], [https://arxiv.org/abs/2407.17686v1  NeurIPS 2024]/ \n
+
+
+- [https://sites.google.com/view/adwaygirish Adway Girish], PhD at EPFL \n
+    -- / NeurIPS 2024: [https://arxiv.org/abs/2407.15504  1], [https://arxiv.org/abs/2406.03072  2], [https://openreview.net/forum?id=SqZ0KY4qBD ICLR 2025 Spotlight] / \n
+
 
 - [https://nl.linkedin.com/in/thijs-vogels Thijs Vogels], PhD at EPFL $\rightarrow$ MSR Amsterdam \n
-    /[https://arxiv.org/abs/2310.13033 ICML 2024]/ \n
+   -- /[https://arxiv.org/abs/2310.13033 ICML 2024]/ \n
 
 - [https://sites.google.com/view/virajnadkarni Viraj Nadkarni], MS at UIUC $\rightarrow$ PhD at Princeton \n
-    /[https://arxiv.org/abs/2210.00313 ICML 2023]/ \n
+    -- /[https://arxiv.org/abs/2210.00313 ICML 2023]/ \n
     
 
 - [https://www.ashwinhebbar.com/ Ashwin Hebbar], MS at UIUC $\rightarrow$ PhD at Princeton \n
-    /[https://arxiv.org/abs/2210.00313 ICML 2023], [https://arxiv.org/abs/2209.15614 ISIT 2022]/  \n
+    -- /[https://arxiv.org/abs/2210.00313 ICML 2023], [https://arxiv.org/abs/2209.15614 ISIT 2022]/  \n
 
 
 - [https://www.linkedin.com/in/ranvir-rana-b3121bbb/ Ranvir Rana], PhD at UIUC $\rightarrow$ Co-founder \& CTO at Kaleidoscope Blockchain \n
-  /[http://swoh.web.engr.illinois.edu/polling.pdf ACM MobiHoc 2019]/ , *Best Paper Award* \n
+  -- /[http://swoh.web.engr.illinois.edu/polling.pdf ACM MobiHoc 2019]/ , *Best Paper Award* \n
 
 - [https://homes.cs.washington.edu/~xiyangl/ Xiyang Liu], PhD at University of Washington \n
-    /[https://arxiv.org/abs/2301.06251 JSAIT 2023], [https://arxiv.org/abs/2102.01671 ISIT 2021], [https://arxiv.org/abs/2108.12920 ICML 2021]/ , *Qualcomm Innovation Fellowship Winner* \n
+    -- /[https://arxiv.org/abs/2301.06251 JSAIT 2023], [https://arxiv.org/abs/2102.01671 ISIT 2021], [https://arxiv.org/abs/2108.12920 ICML 2021]/ , *Qualcomm Innovation Fellowship Winner* \n
 
 - [https://www.linkedin.com/in/mohammad-vahid-jamali-46a4b994/ Mohammad Vahid Jamali], PhD at University of Michigan $\rightarrow$ Samsung \n
-    /[https://arxiv.org/abs/2301.06251 JSAIT 2023], [https://arxiv.org/abs/2102.01671 ISIT 2021], [https://arxiv.org/abs/2108.12920 ICML 2021]/ , *Qualcomm Innovation Fellowship Winner* \n
+    -- /[https://arxiv.org/abs/2301.06251 JSAIT 2023], [https://arxiv.org/abs/2102.01671 ISIT 2021], [https://arxiv.org/abs/2108.12920 ICML 2021]/ , *Qualcomm Innovation Fellowship Winner* \n
 
 - [https://sravan-ankireddy.github.io/ Sravan Kumar Ankireddy], PhD at UT Austin \n
-    /[https://arxiv.org/abs/2209.15614 ISIT 2022]/ \n
+    -- /[https://arxiv.org/abs/2209.15614 ISIT 2022]/ \n
 
 

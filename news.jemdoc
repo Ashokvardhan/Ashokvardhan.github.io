@@ -2,6 +2,13 @@
 == News
 
 
+- Jan 2025: We discover surprising in-context learning abilities of Mamba when trained on Markov chains! More details [https://arxiv.org/abs/2502.10178 here].
+- Dec 2024: Delighted to present our [https://neurips.cc/virtual/2024/tutorial/99532 NeurIPS tutorial] --- Sandbox for the Blackbox: How LLMs Learn Structured Data? \
+Full material including slides and video are available [https://capricious-comb-7a3tbssph.notion.site/NeurIPS-2024-Tutorial-Sandbox-for-the-Blackbox-How-LLMs-learn-Structured-Data-154838a0e858805fa600dd63822ae5e2 here].
+- Nov-Dec 2024: Talk on our body of work on Markovian analysis of transformers at (i) Stanford IT Forum, hosted by [https://web.stanford.edu/~aozgur/ Ayfer Ögzür] and [https://web.stanford.edu/~tsachy/ Tsachy Weissman],\
+and (ii) ETH Zürich, hosted by [https://las.inf.ethz.ch/krausea Andreas Krause].
+- Sep 2024: Three papers to appear at NeurIPS 2024! One explores and matches the fundamental limits of [https://arxiv.org/pdf/2407.15504 prompt compression] \
+and the other two provide a complete characterization of transformers when trained on Markovian inputs: [https://arxiv.org/pdf/2406.03072 Local to Global] and [https://arxiv.org/pdf/2407.17686v1 Constant depth suffices].
 - Nov 2023: Our recent work [https://arxiv.org/abs/2310.13033 LASER] is accepted for the *Oral* track at the [https://federated-learning.org/fl@fm-neurips-2023/ NeurIPS Federated Learning Workshop, 2023]. 
 - Apr 2023: Our paper [https://arxiv.org/abs/2210.00313 CRISP] is accepted in ICML, 2023.
 - Oct 2022: Talk at ETH Zurich on KO codes.
@@ -11,7 +18,7 @@
 - Mar 2022: Defended my thesis! Officially a doctor who can't write prescriptions.
 - Nov 2021 - June 2022: Talks at MIT, UC Berkeley, CMU, UIUC, UCSD, EPFL, and IST Austria on KO codes.
 - Oct 2021: Gave a talk on KO codes at [https://isl.stanford.edu/talks/talks/2021q4/ashok-vardhan-makkuva/ ISL Colloquium, Stanford].
-- May 2021: Our paper [https://arxiv.org/abs/2108.12920 KO codes] is accepted in ICML, 2021. Spent almost 1.5 years solely working on this project. So glad it got accepted in the very first attempt. Yay! 
+- May 2021: Our paper [https://arxiv.org/abs/2108.12920 KO codes] is accepted in ICML, 2021. Spent almost 1.5 years working solely on this project. So glad it got accepted in the very first attempt. Yay! 
 - May 2020: Our paper [https://arxiv.org/abs/1908.10962 Optimal transport mapping via Input-Convex-Neural-Networks] is accepted in ICML, 2020.
 - Jan 2020: Our paper [https://arxiv.org/pdf/1906.02777.pdf Learning in Gated Neural Networks] is accepted in AISTATS, 2020.
 - Jan 2020: Talk on ``Learning in Gated Neural Networks'' at [https://www.iitm.ac.in/ IIT Madras], [https://www.microsoft.com/en-us/research/lab/microsoft-research-india/ Microsoft Research-Bangalore], [https://www.iisc.ac.in/ Indian Institute of Science], [https://www.tifr.res.in/ Tata Institue of Fundamental Research], [http://www.iitb.ac.in/ IIT Bombay].
